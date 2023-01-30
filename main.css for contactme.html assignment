@@ -1,0 +1,33 @@
+body {
+    position: absolute;
+    padding-top: 30%;
+    text-align: center;
+    right: 40%;
+    width: 350px;
+    height: 200px;
+    
+}
+.firstname {
+    padding: 10px;
+
+}
+.lastname {
+    padding: 10px;
+
+}
+.submit {
+    padding: 10px;
+
+}
+.contactme {
+    border: 3px solid black;
+    height:
+   
+}
+head {
+    padding: 500px;
+}
+form {
+    border: 1px solid gray;
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+}
