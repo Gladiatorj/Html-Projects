@@ -1,35 +1,33 @@
-
 body {
-    background: #191970 url("forest-of-stars.jpg");
-    background-size: auto;
-    z-index: 1;
-    margin: 0;
+    position: absolute;
+    padding-top: 30%;
     text-align: center;
+    right: 40%;
+    width: 350px;
+    height: 200px;
+    
 }
+.firstname {
+    padding: 10px;
 
-.topnav{
-    float: center;
-    text-align: center;
-    font-size: 40px;
-    background: rgb(91, 157, 255);
-    z-index: 0;
-    height: 50px;
 }
+.lastname {
+    padding: 10px;
 
-.topnav a{
-    padding: 30px;
+}
+.submit {
+    padding: 10px;
+
+}
+.contactme {
+    border: 3px solid black;
+}
+head {
+    padding: 500px;
+}
+form {
+    border: 1px solid gray;
+    font-family: Montserrat;
     font-weight: bold;
-    text-align: center;
-    line-height: center;
-    height: 50px;
-    width: 100%;
-}
-
-.page{
-    padding-top: 100px;
-    margin: auto;
-    width: 100%;
-    height: 100%;
-    font-size: 50px;
-    color: #dada0a;
+    
 }
