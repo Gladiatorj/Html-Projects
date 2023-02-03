@@ -17,15 +17,21 @@
 #mainContainer {
     height: 100%;
     width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    
+
 }
 .container {
     background: white;
     width: 200px;
     height: 400px;
-    float: left;
     margin: 20px;
     border: 2px solid black;
     border-radius: 5px;
+
 }
 .container h4 {
     text-align: center;
